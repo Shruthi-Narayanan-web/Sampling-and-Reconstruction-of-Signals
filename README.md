@@ -24,8 +24,11 @@ Additive White Gaussian Noise (AWGN) is introduced to model real-world signal de
 ### Original and Noisy Signal
 ![Original vs Noisy]("Screenshot 2025-12-29 214415.png")
 
-### Sampling and Reconstruction
-![Reconstruction](results/reconstruction.png)
+### Sampling 
+![Original]("Screenshot 2025-12-29 215110.png")
+
+### Reconstruction
+![Original vs Noisy]("Screenshot 2025-12-29 215141.png")
 
 ## Author
 Shruthi Narayanan
