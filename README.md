@@ -20,8 +20,12 @@ Additive White Gaussian Noise (AWGN) is introduced to model real-world signal de
 3. Observe time-domain plots of original, noisy, and reconstructed signals
 
 ## Results
-- Accurate reconstruction at sampling rates above Nyquist
-- Noise persists after reconstruction due to in-band components
+
+### Original and Noisy Signal
+![Original vs Noisy]("Screenshot 2025-12-29 214415.png")
+
+### Sampling and Reconstruction
+![Reconstruction](results/reconstruction.png)
 
 ## Author
 Shruthi Narayanan
