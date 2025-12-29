@@ -15,20 +15,20 @@ Additive White Gaussian Noise (AWGN) is introduced to model real-world signal de
 - MATLAB
 
 ## How to Run
-1. Open `sampling_reconstruction.m` in MATLAB
+1. Open `sampling_reconstruction_1.m` in MATLAB
 2. Run the script
 3. Observe time-domain plots of original, noisy, and reconstructed signals
 
 ## Results
 
 ### Original and Noisy Signal
-![Original vs Noisy]("Screenshot 2025-12-29 214415.png")
+![Original vs Noisy]("Orginal_vs_noisy.png")
 
 ### Sampling 
-![Original]("Screenshot 2025-12-29 215110.png")
+![Original]("Sampling.png")
 
 ### Reconstruction
-![Original vs Noisy]("Screenshot 2025-12-29 215141.png")
+![Original vs Noisy]("Reconstruction.png")
 
 ## Author
 Shruthi Narayanan
